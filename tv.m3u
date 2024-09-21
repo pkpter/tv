@@ -11,6 +11,14 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="港澳台",凤凰香港720
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港澳台",TVB翡翠台
+http://avd.iptviptv.site:9694/hls/99/index.m3u8
+#EXTINF:-1 group-title="港澳台",TVB明珠台
+http://avd.iptviptv.site:9694/hls/103/index.m3u8
+#EXTINF:-1 group-title="港澳台",TVB无线新闻
+http://avd.iptviptv.site:9694/hls/906/index.m3u8
+#EXTINF:-1 group-title="港澳台",TVB无线财经
+http://live.cooltv.top/tv/tvb.php?id=2&hq
 
 #EXTINF:-1 group-title="港澳台",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -18,6 +26,10 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS新闻
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",三立新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+#EXTINF:-1 group-title="港澳台",东森综合
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 
 #EXTINF:-1 group-title="国际",新加坡CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
