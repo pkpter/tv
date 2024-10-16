@@ -44,11 +44,11 @@ http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=
 http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台",凤凰中文720
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台国际",凤凰中文720
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯720
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台国际",凤凰资讯720
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台",凤凰香港720
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台国际",凤凰香港720
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -128,11 +128,11 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV-1
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV-1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV-2
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视频道",CETV-2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV-4
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视频道",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
@@ -236,60 +236,60 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtna.m3u8
 
 #精选自maxlay#
-#EXTINF:-1 group-title="港台",凤凰中文720
+#EXTINF:-1 group-title="港台国际",凤凰中文720
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港台",凤凰资讯1080废
+#EXTINF:-1 group-title="港台国际",凤凰资讯1080废
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港台",凤凰香港720
+#EXTINF:-1 group-title="港台国际",凤凰香港720
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 
 #来自zhumeng11凤凰1080#
 
 #来自zhumeng11#
-#EXTINF:-1 group-title="港台",TVB无线新闻「粤语」1080
+#EXTINF:-1 group-title="港台国际",TVB无线新闻「粤语」1080
 http://live.cooltv.top/tv/tvb.php?id=2&hq
-#EXTINF:-1 group-title="港台",TVB无线新闻2「粤语」1080
+#EXTINF:-1 group-title="港台国际",TVB无线新闻2「粤语」1080
 http://avd.iptviptv.site:9694/hls/906/index.m3u8
 
-#EXTINF:-1 group-title="港台",TVB翡翠台1080
+#EXTINF:-1 group-title="港台国际",TVB翡翠台1080
 http://avd.iptviptv.site:9694/hls/99/index.m3u8
-#EXTINF:-1 group-title="港台",TVB明珠台1080
+#EXTINF:-1 group-title="港台国际",TVB明珠台1080
 http://avd.iptviptv.site:9694/hls/103/index.m3u8
 
 
-#EXTINF:-1 group-title="港台",台视新闻1080
+#EXTINF:-1 group-title="港台国际",台视新闻1080
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="港台",三立新闻1080
+#EXTINF:-1 group-title="港台国际",三立新闻1080
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-#EXTINF:-1 group-title="港台",东森新闻720
+#EXTINF:-1 group-title="港台国际",东森新闻720
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 group-title="港台",TVBS新闻1080
+#EXTINF:-1 group-title="港台国际",TVBS新闻1080
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 
-#EXTINF:-1 group-title="国际",新加坡CNA「英文」1080
+#EXTINF:-1 group-title="港台国际",新加坡CNA「英文」1080
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",卡塔尔半岛新闻「英文」1080
+#EXTINF:-1 group-title="港台国际",卡塔尔半岛新闻「英文」1080
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际",英国SKY「英文」720
+#EXTINF:-1 group-title="港台国际",英国SKY「英文」720
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
-#EXTINF:-1 group-title="国际",美国FOX「英文」720
+#EXTINF:-1 group-title="港台国际",美国FOX「英文」720
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="国际",美国Newsma xTV「英文」1080
+#EXTINF:-1 group-title="港台国际",美国Newsma xTV「英文」1080
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="国际",美国BloombergTV+2「英文」1080
+#EXTINF:-1 group-title="港台国际",美国BloombergTV+2「英文」1080
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 group-title="国际",Love Nature 4K 「自然」「英文」2160
+#EXTINF:-1 group-title="港台国际",Love Nature 4K 「自然」「英文」2160
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 group-title="国际",日テレNEWS24「日文」480
+#EXTINF:-1 group-title="港台国际",日テレNEWS24「日文」480
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-#EXTINF:-1 group-title="国际",日本NHK「日文」405
+#EXTINF:-1 group-title="港台国际",日本NHK「日文」405
 http://avd.iptviptv.site:9694/hls/1004/index.m3u8
 
-#EXTINF:-1 group-title="国际",韩国KBS 1新闻「韩文」720
+#EXTINF:-1 group-title="港台国际",韩国KBS 1新闻「韩文」720
 https://tv.iill.top/kbs/11&p=0
-#EXTINF:-1 group-title="国际",韩国KBS 2娱乐「韩文」720
+#EXTINF:-1 group-title="港台国际",韩国KBS 2娱乐「韩文」720
 https://tv.iill.top/kbs/12&p=0
-#EXTINF:-1 group-title="国际",韩国KBS World娱乐「韩文」720
+#EXTINF:-1 group-title="港台国际",韩国KBS World娱乐「韩文」720
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
