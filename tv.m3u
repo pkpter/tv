@@ -238,12 +238,53 @@ https://0472.org/hls/cgtna.m3u8
 #精选自maxlay#
 #EXTINF:-1 group-title="港台国际",凤凰中文720
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港台国际",凤凰资讯1080废
+#EXTINF:-1 group-title="港台国际",凤凰资讯1080
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="港台国际",凤凰香港720
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 
 #来自zhumeng11凤凰1080#
+
+#来自yuanzl77凤凰#
+#EXTINF:-1 group-title="港台国际",凤凰中文1080
+http://hgiue6pb.mi4.xyz:8888/rtp/239.76.253.135:9000$LR•IPV4『线路61』
+#EXTINF:-1 group-title="港台国际",凤凰中文1080
+http://122.234.254.49:4000/rtp/233.50.200.191:5140$LR•IPV4『线路62』
+#EXTINF:-1 group-title="港台国际",凤凰中文1080
+http://146.56.153.245:20121/bysid/258$LR•IPV4『线路65』
+#EXTINF:-1 group-title="港台国际",凤凰中文1080
+http://125.109.62.72:9999/rtp/233.50.200.191:5140$LR•IPV4『线路69』
+#EXTINF:-1 group-title="港台国际",凤凰中文1080
+http://220.168.240.238:9999/rtp/239.76.253.135:9000$LR•IPV4『线路78』
+#EXTINF:-1 group-title="港台国际",凤凰中文1080
+http://146.56.153.245:20121/bysid/258$LR•IPV4『线路94』
+
+#EXTINF:-1 group-title="港台国际",凤凰资讯1080
+http://hgiue6pb.mi4.xyz:8888/rtp/239.76.253.134:9000$LR•IPV4『线路57』
+#EXTINF:-1 group-title="港台国际",凤凰资讯1080
+http://ixgsgpsa.mi4.xyz:8888/rtp/239.76.253.134:9000$LR•IPV4『线路64』
+#EXTINF:-1 group-title="港台国际",凤凰资讯1080
+http://220.168.240.238:9999/rtp/239.76.253.134:9000$LR•IPV4『线路69』
+#EXTINF:-1 group-title="港台国际",凤凰资讯1080
+http://175.9.193.128:4502/rtp/239.76.253.134:9000$LR•IPV4『线路77』
+#EXTINF:-1 group-title="港台国际",凤凰资讯1080
+http://122.234.254.49:4000/rtp/233.50.200.192:5140$LR•IPV4『线路82』
+#EXTINF:-1 group-title="港台国际",凤凰资讯1080
+http://220.168.240.238:9999/rtp/239.76.253.134:9000$LR•IPV4『线路86』
+#EXTINF:-1 group-title="港台国际",凤凰资讯1080
+http://tv.sd.cn/sichuan?id=239.93.1.4:2191$LR•IPV4『线路102』
+
+#EXTINF:-1 group-title="港台国际",香港卫视576p
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4『线路7』
+#EXTINF:-1 group-title="港台国际",香港卫视576p
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路10』
+#EXTINF:-1 group-title="港台国际",香港卫视576p
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8$LR•IPV4『线路12』
+#EXTINF:-1 group-title="港台国际",香港卫视576p
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4『线路15』
+#EXTINF:-1 group-title="港台国际",香港卫视576p
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路21』
+
 
 #来自zhumeng11#
 #EXTINF:-1 group-title="港台国际",TVB无线新闻「粤语」1080
