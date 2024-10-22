@@ -247,7 +247,7 @@ https://0472.org/hls/cgtna.m3u8
 
 #来自yuanzl77凤凰#
 #EXTINF:-1 group-title="港台国际",凤凰中文1080
-http://hgiue6pb.mi4.xyz:8888/rtp/239.76.253.135:9000$LR•IPV4『线路61』
+#http://hgiue6pb.mi4.xyz:8888/rtp/239.76.253.135:9000$LR•IPV4『线路61』
 #EXTINF:-1 group-title="港台国际",凤凰中文1080
 http://122.234.254.49:4000/rtp/233.50.200.191:5140$LR•IPV4『线路62』
 #EXTINF:-1 group-title="港台国际",凤凰中文1080
@@ -262,7 +262,7 @@ http://146.56.153.245:20121/bysid/258$LR•IPV4『线路94』
 #EXTINF:-1 group-title="港台国际",凤凰资讯1080
 http://hgiue6pb.mi4.xyz:8888/rtp/239.76.253.134:9000$LR•IPV4『线路57』
 #EXTINF:-1 group-title="港台国际",凤凰资讯1080
-http://ixgsgpsa.mi4.xyz:8888/rtp/239.76.253.134:9000$LR•IPV4『线路64』
+#http://ixgsgpsa.mi4.xyz:8888/rtp/239.76.253.134:9000$LR•IPV4『线路64』
 #EXTINF:-1 group-title="港台国际",凤凰资讯1080
 http://220.168.240.238:9999/rtp/239.76.253.134:9000$LR•IPV4『线路69』
 #EXTINF:-1 group-title="港台国际",凤凰资讯1080
@@ -271,17 +271,15 @@ http://175.9.193.128:4502/rtp/239.76.253.134:9000$LR•IPV4『线路77』
 http://122.234.254.49:4000/rtp/233.50.200.192:5140$LR•IPV4『线路82』
 #EXTINF:-1 group-title="港台国际",凤凰资讯1080
 http://220.168.240.238:9999/rtp/239.76.253.134:9000$LR•IPV4『线路86』
-#EXTINF:-1 group-title="港台国际",凤凰资讯1080
-http://tv.sd.cn/sichuan?id=239.93.1.4:2191$LR•IPV4『线路102』
 
 #EXTINF:-1 group-title="港台国际",香港卫视576p
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4『线路7』
+#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4『线路7』
 #EXTINF:-1 group-title="港台国际",香港卫视576p
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路10』
+#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路10』
 #EXTINF:-1 group-title="港台国际",香港卫视576p
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8$LR•IPV4『线路12』
+#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8$LR•IPV4『线路12』
 #EXTINF:-1 group-title="港台国际",香港卫视576p
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4『线路15』
+#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4『线路15』
 #EXTINF:-1 group-title="港台国际",香港卫视576p
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路21』
 
@@ -325,12 +323,12 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="港台国际",日テレNEWS24「日文」480
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 group-title="港台国际",日本NHK「日文」405
-http://avd.iptviptv.site:9694/hls/1004/index.m3u8
+#http://avd.iptviptv.site:9694/hls/1004/index.m3u8
 
 #EXTINF:-1 group-title="港台国际",韩国KBS 1新闻「韩文」720
-https://tv.iill.top/kbs/11&p=0
+#https://tv.iill.top/kbs/11&p=0
 #EXTINF:-1 group-title="港台国际",韩国KBS 2娱乐「韩文」720
-https://tv.iill.top/kbs/12&p=0
+#https://tv.iill.top/kbs/12&p=0
 #EXTINF:-1 group-title="港台国际",韩国KBS World娱乐「韩文」720
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
