@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经【备选】
+#http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226676/index.m3u8$LR•IPV6『线路20』
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -233,7 +233,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="港台国际",凤凰中文1080
 #http://146.56.153.245:20121/bysid/258$LR•IPV4『线路65』
 #EXTINF:-1 group-title="港台国际",凤凰中文1080
-http://125.109.62.72:9999/rtp/233.50.200.191:5140$LR•IPV4『线路69』
+#http://125.109.62.72:9999/rtp/233.50.200.191:5140$LR•IPV4『线路69』
 #EXTINF:-1 group-title="港台国际",凤凰中文1080
 #http://220.168.240.238:9999/rtp/239.76.253.135:9000$LR•IPV4『线路78』
 #EXTINF:-1 group-title="港台国际",凤凰中文1080
@@ -246,7 +246,7 @@ http://125.109.62.72:9999/rtp/233.50.200.191:5140$LR•IPV4『线路69』
 #EXTINF:-1 group-title="港台国际",凤凰资讯1080
 #http://220.168.240.238:9999/rtp/239.76.253.134:9000$LR•IPV4『线路69』
 #EXTINF:-1 group-title="港台国际",凤凰资讯1080
-http://175.9.193.128:4502/rtp/239.76.253.134:9000$LR•IPV4『线路77』
+#http://175.9.193.128:4502/rtp/239.76.253.134:9000$LR•IPV4『线路77』
 #EXTINF:-1 group-title="港台国际",凤凰资讯1080
 #http://122.234.254.49:4000/rtp/233.50.200.192:5140$LR•IPV4『线路82』
 #EXTINF:-1 group-title="港台国际",凤凰资讯1080
