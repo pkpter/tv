@@ -258,14 +258,14 @@ https://tv.iill.top/kbs/12&p=0
 #EXTINF:-1 group-title="港台国际",韩国KBS World娱乐
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
+#EXTINF:-1 group-title="港台国际",新加坡CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="港台国际",卡塔尔半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="港台国际",美国FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="港台国际",美国Newsma xTV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="港台国际",卡塔尔半岛新闻
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="港台国际",新加坡CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="港台国际",英国SKY
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 #EXTINF:-1 group-title="港台国际",Love Nature 4K
