@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
 
+#精选自maxlay#
+#EXTINF:-1 group-title="港台国际",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港台国际",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+
 #精选自tvnxogtop#
 #EXTINF:-1 group-title="央视频道",CCTV1
 https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2
@@ -41,8 +47,3 @@ https://www.freetv.top/migu/673168223.m3u8?migutoken=50dc3ccc2d27d7a93259df8360e
 #EXTINF:-1 group-title="央视频道",CCTV17
 https://www.freetv.top/migu/673168256.m3u8?migutoken=dff047a9026f526223c0ed1adbfabbe258e37787a9dbf6c13ddfa3dfc5be6fc055e4ec23f97b75ae545c0a460100ac52ba7ebcfbc7dc5b37f2c7cd2138c72751b2aa7e843867bd1e89f39c0060
 
-#精选自maxlay#
-#EXTINF:-1 group-title="港台国际",凤凰中文
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港台国际",凤凰资讯
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
