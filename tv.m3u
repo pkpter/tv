@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #精选自maxlay#
 #EXTINF:-1 group-title="港台国际",凤凰中文
