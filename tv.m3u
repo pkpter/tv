@@ -350,41 +350,41 @@ http://iptv.huuc.edu.cn/hls/jxhd.m3u8
 
 #来自oemlive网址https://gh-proxy.com/raw.githubusercontent.com/oemlive/iptv/refs/heads/main/1
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视oemlive",CCTV1
 http://z.b.bkpcp.top/m.php?id=cctv1
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视oemlive",CCTV2
 http://z.b.bkpcp.top/m.php?id=cctv2
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视",CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视oemlive",CCTV3
 http://z.b.bkpcp.top/m.php?id=cctv3
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视oemlive",CCTV4
 http://z.b.bkpcp.top/m.php?id=cctv4
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视oemlive",CCTV5
 http://z.b.bkpcp.top/m.php?id=cctv5
-#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" group-title="央视",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" group-title="央视oemlive",CCTV5+
 http://z.b.bkpcp.top/m.php?id=cctv5p
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视oemlive",CCTV6
 http://z.b.bkpcp.top/m.php?id=cctv6
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视oemlive",CCTV7
 http://z.b.bkpcp.top/m.php?id=cctv7
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视oemlive",CCTV8
 http://z.b.bkpcp.top/m.php?id=cctv8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视oemlive",CCTV9
 http://z.b.bkpcp.top/m.php?id=cctv9
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视",CCTV10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视oemlive",CCTV10
 http://z.b.bkpcp.top/m.php?id=cctv10
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视",CCTV11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视oemlive",CCTV11
 http://z.b.bkpcp.top/m.php?id=cctv11
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视",CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视oemlive",CCTV12
 http://z.b.bkpcp.top/m.php?id=cctv12
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视oemlive",CCTV13
 http://z.b.bkpcp.top/m.php?id=cctv13
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视",CCTV14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视oemlive",CCTV14
 http://z.b.bkpcp.top/m.php?id=cctv14
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视",CCTV15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视oemlive",CCTV15
 http://z.b.bkpcp.top/m.php?id=cctv15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视oemlive",CCTV16
 http://z.b.bkpcp.top/m.php?id=cctv16
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视",CCTV17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视oemlive",CCTV17
 http://z.b.bkpcp.top/m.php?id=cctv17
 
 
