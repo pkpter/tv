@@ -117,59 +117,59 @@ http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=
 
 #精选自SuperNinjap网址https://github.com/SuperNinjap/tvbox/blob/main/iptv.txt
 
-#EXTINF:-1 group-title="",CCTV-1高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-1高清
 http://www.lizhinas.top:1009/rtp/239.252.219.200:5140
-#EXTINF:-1 group-title="",CCTV-2高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-2高清
 http://www.lizhinas.top:1009/rtp/239.252.220.183:5140
-#EXTINF:-1 group-title="",CCTV-3高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-3高清
 http://www.lizhinas.top:1009/rtp/239.252.219.252:5140
-#EXTINF:-1 group-title="",CCTV-3高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-3高清
 http://www.lizhinas.top:1009/rtp/239.252.220.193:5140
-#EXTINF:-1 group-title="",CCTV-4高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-4高清
 http://www.lizhinas.top:1009/rtp/239.252.220.184:5140
-#EXTINF:-1 group-title="",CCTV-5高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-5高清
 http://www.lizhinas.top:1009/rtp/239.252.219.198:5140
-#EXTINF:-1 group-title="",CCTV-5高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-5高清
 http://www.lizhinas.top:1009/rtp/239.252.219.236:5140
-#EXTINF:-1 group-title="",CCTV-5+高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-5+高清
 http://www.lizhinas.top:1009/rtp/239.252.219.72:5140
-#EXTINF:-1 group-title="",CCTV-6高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-6高清
 http://www.lizhinas.top:1009/rtp/239.252.219.237:5140
-#EXTINF:-1 group-title="",CCTV-6高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-6高清
 http://www.lizhinas.top:1009/rtp/239.252.220.195:5140
-#EXTINF:-1 group-title="",CCTV-7高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-7高清
 http://www.lizhinas.top:1009/rtp/239.252.220.185:5140
-#EXTINF:-1 group-title="",CCTV-8高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-8高清
 http://www.lizhinas.top:1009/rtp/239.252.219.253:5140
-#EXTINF:-1 group-title="",CCTV-8高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-8高清
 http://www.lizhinas.top:1009/rtp/239.252.220.196:5140
-#EXTINF:-1 group-title="",CCTV-9高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-9高清
 http://www.lizhinas.top:1009/rtp/239.252.220.186:5140
-#EXTINF:-1 group-title="",CCTV-10高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-10高清
 http://www.lizhinas.top:1009/rtp/239.252.220.91:5140
-#EXTINF:-1 group-title="",CCTV-11高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-11高清
 http://www.lizhinas.top:1009/rtp/239.252.219.78:5140
-#EXTINF:-1 group-title="",CCTV-12高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-12高清
 http://www.lizhinas.top:1009/rtp/239.252.220.187:5140
-#EXTINF:-1 group-title="",CCTV-13高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-13高清
 http://www.lizhinas.top:1009/rtp/239.252.219.139:5140
-#EXTINF:-1 group-title="",CCTV-14高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-14高清
 http://www.lizhinas.top:1009/rtp/239.252.220.92:5140
-#EXTINF:-1 group-title="",CCTV-15高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-15高清
 http://www.lizhinas.top:1009/rtp/239.252.219.79:5140
-#EXTINF:-1 group-title="",CCTV-16高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-16高清
 http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="",CCTV-16_4K
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-16_4K
 http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="",CCTV-16高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-16高清
 http://www.lizhinas.top:1009/rtp/239.252.219.70:5140
-#EXTINF:-1 group-title="",CCTV-17高清
+#EXTINF:-1 group-title="央视SuperNinjap",CCTV-17高清
 http://www.lizhinas.top:1009/rtp/239.252.220.192:5140
-#EXTINF:-1 group-title="",CHC动作电影
+#EXTINF:-1 group-title="央视SuperNinjap",CHC动作电影
 http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
-#EXTINF:-1 group-title="",CHC影迷电影
+#EXTINF:-1 group-title="央视SuperNinjap",CHC影迷电影
 http://www.lizhinas.top:1009/rtp/239.252.219.83:5140
-#EXTINF:-1 group-title="",CHC家庭影院
+#EXTINF:-1 group-title="央视SuperNinjap",CHC家庭影院
 http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
 
 
