@@ -674,3 +674,8 @@ https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_64
 #EXTINF:-1 tvg-name="春晚" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2025
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 
+
+
+#广播
+#EXTINF:-1 tvg-name="宝岛联播网" group-title="广播",宝岛联播网
+http://125.227.87.206:8000/FM98.5
