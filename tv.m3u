@@ -3,7 +3,8 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
-
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV99.png" group-title="订阅网址",CCTV99
+https://cdn.jsdelivr.net/gh/pkpter/tv/tv2.m3u
 
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🇨🇳央卫视直播1",CCTV1
 http://45.192.97.170:8880/play/1.m3u8
