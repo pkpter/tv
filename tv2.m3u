@@ -3,8 +3,10 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV99.png" group-title="订阅网址",CCTV99
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV99.png" group-title="订阅网址",CCTV999
 https://cdn.jsdelivr.net/gh/pkpter/tv/tv2.m3u
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV999.png" group-title="订阅网址2",CCTV999
+https://live.445569.xyz/live.m3u
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="个人精选",凤凰资讯
 https://www.youtube.com/watch?v=Ry--eMIjYLQ
