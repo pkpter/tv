@@ -449,6 +449,439 @@ http://f.123.rr.kg/163189/cctv16-2
 http://f.123.rr.kg/163189/cctv17
 
 
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/5Sport.png" group-title="⚽️体育直播",5Sport
+http://stream.mcquack.net/41/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BEK%20TV%20Sports%20West.png" group-title="⚽️体育直播",BEK TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Turkmenistan%20Sport.png" group-title="⚽️体育直播",Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ACI%20Sport%20TV.png" group-title="⚽️体育直播",ACI Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Arryadia.png" group-title="⚽️体育直播",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Belarus-5.png" group-title="⚽️体育直播",Belarus-5
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RMTV.png" group-title="⚽️体育直播",RMTV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Red%20Bull%20TV.png" group-title="⚽️体育直播",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Africa%2024%20Sport.png" group-title="⚽️体育直播",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FIFA%2B.png" group-title="⚽️体育直播",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AF%AE%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",篮球专场
+https://huyazhibo.de5.net/?id=27949551
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B6%B3%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",足球专场
+https://huyazhibo.de5.net/?id=19197411
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B7%AF%E4%BA%BA%E7%8E%8B%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",路人王专场
+https://huyazhibo.de5.net/?id=14346993
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",羽毛球专场
+https://huyazhibo.de5.net/?id=30806115
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B9%92%E4%B9%93%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",乒乓球专场
+https://huyazhibo.de5.net/?id=23505696
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",斯诺克专场
+https://huyazhibo.de5.net/?id=880214
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B5%9B%E8%BD%A6%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",赛车专场
+https://huyazhibo.de5.net/?id=18152482
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%91%94%E8%B7%A4%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",摔跤专场
+https://huyazhibo.de5.net/?id=20072812
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%8B%B3%E5%87%BB%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",拳击专场
+https://huyazhibo.de5.net/?id=18152380
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A0%BC%E6%96%97%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",格斗专场
+https://huyazhibo.de5.net/?id=20072796
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9F%94%E9%81%93%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",柔道专场
+https://huyazhibo.de5.net/?id=20072837
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/WWE%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",WWE专场
+https://huyazhibo.de5.net/?id=30021023
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%91%A9%E6%89%98%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",摩托专场
+https://huyazhibo.de5.net/?id=19197407
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%81%A5%E7%BE%8E%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",健美专场
+https://huyazhibo.de5.net/?id=23244436
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%81%A5%E8%BA%AB%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",健身专场
+https://huyazhibo.de5.net/?id=24354754
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B6%8A%E9%87%8E%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",越野专场
+https://huyazhibo.de5.net/?id=30020978
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Big3%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",Big3专场
+https://huyazhibo.de5.net/?id=30847442
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%A3%9E%E7%9B%98%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",飞盘专场
+https://huyazhibo.de5.net/?id=30689549
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%91%9C%E4%BC%BD%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",瑜伽专场
+https://huyazhibo.de5.net/?id=20753449
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A3%92%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",棒球专场
+https://huyazhibo.de5.net/?id=20072763
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%87%E8%80%B3%E5%85%89%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",扇耳光专场
+https://huyazhibo.de5.net/?id=30631765
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/E1%E7%94%B5%E5%8A%A8%E8%B5%9B%E8%89%87%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",E1电动赛艇专场
+https://huyazhibo.de5.net/?id=30805936
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%93%81%E4%BA%BA%E4%B8%89%E9%A1%B9%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",铁人三项专场
+https://huyazhibo.de5.net/?id=30805963
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B8%86%E8%88%B9%E4%B8%93%E5%9C%BA.png" group-title="⚽️体育直播",帆船专场
+https://huyazhibo.de5.net/?id=30805961
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%8E%E6%95%B0%E7%94%B5%E5%BD%B1.png" group-title="🎞️电影直播",华数电影
+http://hmfs.f3322.net:3388/hls/40/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%8E%E6%95%B0%E5%8A%A8%E4%BD%9C%E5%BD%B1%E9%99%A2.png" group-title="🎞️电影直播",华数动作影院
+http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="🎞️电影直播",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="🎞️电影直播",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="🎞️电影直播",CHC影迷电影
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="🎞️电影直播",经典电影
+https://down-hls.qxiu.com/live/453135/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",周星驰专场
+https://huyazhibo.de5.net/?id=11336587
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%8E%E8%BF%9E%E6%9D%B0%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",李连杰专场
+https://huyazhibo.de5.net/?id=11342390
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",刘德华专场
+https://huyazhibo.de5.net/?id=11342424
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E6%AD%A3%E8%8B%B1%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",林正英专场
+https://huyazhibo.de5.net/?id=11342421
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B2%88%E8%85%BE%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",沈腾专场
+https://huyazhibo.de5.net/?id=11601968
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E6%B8%A4%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",黄渤专场
+https://huyazhibo.de5.net/?id=11352876
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%B6%A6%E5%8F%91%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",周润发专场
+https://huyazhibo.de5.net/?id=11342387
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%90%E9%BE%99%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",成龙专场
+https://huyazhibo.de5.net/?id=11342386
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%A4%E5%A4%A9%E4%B9%90%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",古天乐专场
+https://huyazhibo.de5.net/?id=29982675
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E6%99%B6%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",王晶专场
+https://huyazhibo.de5.net/?id=11602058
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%90%B4%E4%BA%AC%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",吴京专场
+https://huyazhibo.de5.net/?id=11602077
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B4%AA%E9%87%91%E5%AE%9D%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",洪金宝专场
+https://huyazhibo.de5.net/?id=11279251
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BE%90%E5%85%8B%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",徐克专场
+https://huyazhibo.de5.net/?id=11352909
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BE%90%E5%B3%A5%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",徐峥专场
+https://huyazhibo.de5.net/?id=11602043
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%82%93%E8%B6%85%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",邓超专场
+https://huyazhibo.de5.net/?id=11336592
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A2%81%E5%AE%B6%E8%BE%89%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",梁家辉专场
+https://huyazhibo.de5.net/?id=11342429
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E5%8D%AB%E5%81%A5%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",张卫健专场
+https://huyazhibo.de5.net/?id=11342423
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E5%AE%9D%E5%BC%BA%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",王宝强专场
+https://huyazhibo.de5.net/?id=30080251
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E5%B0%8F%E6%98%A5%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",陈小春专场
+https://huyazhibo.de5.net/?id=11336719
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%83%AD%E5%AF%8C%E5%9F%8E%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",郭富城专场
+https://huyazhibo.de5.net/?id=20985865
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%90%B4%E9%95%87%E5%AE%87%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",吴镇宇专场
+https://huyazhibo.de5.net/?id=23865096
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%86%E5%B0%8F%E5%87%A4%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",陆小凤专场
+https://huyazhibo.de5.net/?id=11342427
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%BA%E6%A3%AE%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",强森专场
+https://huyazhibo.de5.net/?id=21059581
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%96%AF%E5%9D%A6%E6%A3%AE%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",斯坦森专场
+https://huyazhibo.de5.net/?id=21059588
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%A9%AC%E4%B8%9C%E9%94%A1%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",马东锡专场
+https://huyazhibo.de5.net/?id=21059556
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%81%BE%E9%9A%BE%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",灾难片系列
+https://huyazhibo.de5.net/?id=23728647
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B4%BA%E5%B2%81%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",贺岁片系列
+https://huyazhibo.de5.net/?id=11601986
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A7%91%E5%B9%BB%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",科幻片系列
+https://huyazhibo.de5.net/?id=11352965
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%A7%E5%B0%B8%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",丧尸片系列
+https://huyazhibo.de5.net/?id=24314160
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%80%AA%E5%85%BD%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",怪兽片系列
+https://huyazhibo.de5.net/?id=29982674
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%98%E4%BA%89%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",战争片系列
+https://huyazhibo.de5.net/?id=21059618
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A1%AC%E6%B1%89%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",硬汉片系列
+https://huyazhibo.de5.net/?id=23864973
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AB%9E%E9%80%9F%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",竞速片系列
+https://huyazhibo.de5.net/?id=30145009
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E4%BD%9C%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",动作片系列
+https://huyazhibo.de5.net/?id=10871113
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E6%83%85%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",爱情片系列
+https://huyazhibo.de5.net/?id=29982639
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8A%AF%E7%BD%AA%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",犯罪片系列
+https://huyazhibo.de5.net/?id=30080213
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A5%87%E5%B9%BB%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",奇幻片系列
+https://huyazhibo.de5.net/?id=26355847
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%86%92%E9%99%A9%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",冒险片系列
+https://huyazhibo.de5.net/?id=21059566
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%9B%97%E5%A2%93%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",盗墓片系列
+https://huyazhibo.de5.net/?id=11601981
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A9%BF%E8%B6%8A%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",穿越片系列
+https://huyazhibo.de5.net/?id=29465892
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%82%AC%E7%96%91%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",悬疑片系列
+https://huyazhibo.de5.net/?id=21059530
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%96%9C%E5%89%A7%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",喜剧片系列
+https://huyazhibo.de5.net/?id=11602044
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",英雄片系列
+https://huyazhibo.de5.net/?id=11601980
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%AA%E6%88%98%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",枪战片系列
+https://huyazhibo.de5.net/?id=21059579
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A6%E4%BE%A0%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",武侠片系列
+https://huyazhibo.de5.net/?id=29982677
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%8D%E4%BB%87%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",复仇片系列
+https://huyazhibo.de5.net/?id=29982645
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E7%90%83%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",星球片系列
+https://huyazhibo.de5.net/?id=30080234
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A0%A1%E5%9B%AD%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",校园片系列
+https://huyazhibo.de5.net/?id=11352934
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%AD%A6%E5%8C%AA%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",警匪片系列
+https://huyazhibo.de5.net/?id=30041512
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B0%8D%E6%88%98%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",谍战片系列
+https://huyazhibo.de5.net/?id=26355810
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E7%94%BB%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",动画片系列
+https://huyazhibo.de5.net/?id=11352878
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%81%90%E6%80%96%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",恐怖片系列
+https://huyazhibo.de5.net/?id=11601960
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%83%8A%E6%82%9A%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",惊悚片系列
+https://huyazhibo.de5.net/?id=26355802
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%83%B5%E5%B0%B8%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",僵尸片系列
+https://huyazhibo.de5.net/?id=11352917
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BD%93%E8%82%B2%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",体育片系列
+https://huyazhibo.de5.net/?id=23864480
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%A6%99%E6%B8%AF%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",香港片系列
+https://huyazhibo.de5.net/?id=30631706
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%B0%E5%BA%A6%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",印度片系列
+https://huyazhibo.de5.net/?id=26355799
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%83%AD%E9%97%A8%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",热门片系列
+https://huyazhibo.de5.net/?id=880261
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%AB%98%E5%88%86%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",高分片系列
+https://huyazhibo.de5.net/?id=23902225
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%9F%AD%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",短片系列
+http://live.nctv.top/douyu1.php?id=8700367
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%A9%E5%9B%BD%E7%BB%BC%E8%89%BA.png" group-title="📽️综艺直播",韩国综艺
+https://huyazhibo.de5.net/?id=11336725
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98.png" group-title="📽️综艺直播",极限挑战
+https://huyazhibo.de5.net/?id=23352563
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%94%B7%E7%94%9F%E5%A5%B3%E7%94%9F%E5%90%91%E5%89%8D%E5%86%B2%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",男生女生向前冲专场
+https://huyazhibo.de5.net/?id=30021042
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%92%E6%98%A5%E7%8E%AF%E6%B8%B8%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",青春环游专场
+https://huyazhibo.de5.net/?id=30080246
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",五十公里桃花坞专场
+https://huyazhibo.de5.net/?id=29465869
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%AB%98%E8%83%BD%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",高能少年团专场
+https://huyazhibo.de5.net/?id=29982609
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B0%8F%E6%97%B6%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",二十四小时专场
+https://huyazhibo.de5.net/?id=29982610
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",哈哈哈哈哈专场
+https://huyazhibo.de5.net/?id=30080247
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%84%E5%BC%9F%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",奔跑吧兄弟专场
+https://huyazhibo.de5.net/?id=29465870
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",最强大脑专场
+https://huyazhibo.de5.net/?id=29465880
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",现在就出发专场
+https://huyazhibo.de5.net/?id=21059551
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",脱口秀大会专场
+https://huyazhibo.de5.net/?id=30080243
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E6%B8%B8%E8%AE%B0%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",新游记专场
+https://huyazhibo.de5.net/?id=20985794
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E8%B5%90%E7%9A%84%E5%A3%B0%E9%9F%B3%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",天赐的声音专场
+https://huyazhibo.de5.net/?id=30080249
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%92%B1%E4%BB%AC%E7%A9%BF%E8%B6%8A%E5%90%A7%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",咱们穿越吧专场
+https://huyazhibo.de5.net/?id=11352907
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%91%E6%98%AF%E5%A4%A7%E4%BE%A6%E6%8E%A2%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",我是大侦探专场
+https://huyazhibo.de5.net/?id=20969140
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9C%8B%E5%8F%8B%E8%AF%B7%E5%90%83%E9%A5%AD%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",朋友请吃饭专场
+https://huyazhibo.de5.net/?id=11352918
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/12%E9%81%93%E9%94%8B%E5%91%B3%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",12道锋味专场
+https://huyazhibo.de5.net/?id=30080162
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%91%E4%BB%AC%E7%9A%84%E5%AE%A2%E6%A0%88%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",我们的客栈专场
+https://huyazhibo.de5.net/?id=24609812
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%98%E5%BD%A2%E8%AE%A1%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",变形计专场
+https://huyazhibo.de5.net/?id=23903164
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%8E%A2%E6%A1%88%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",探案剧专区
+https://huyazhibo.de5.net/?id=20969144
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%83%BD%E5%B8%82%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",都市剧专区
+https://huyazhibo.de5.net/?id=29982666
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%91%E4%BE%A6%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",刑侦剧专区
+https://huyazhibo.de5.net/?id=20969130
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%B6%E5%BA%AD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",家庭剧专区
+https://huyazhibo.de5.net/?id=11352872
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BB%8F%E5%85%B8%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",经典剧专区
+https://huyazhibo.de5.net/?id=11602081
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%80%80%E6%97%A7%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",怀旧剧专区
+https://huyazhibo.de5.net/?id=30080241
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%83%B5%E5%B0%B8%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",僵尸剧专区
+https://huyazhibo.de5.net/?id=24314160
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%8A%97%E6%88%98%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",抗战剧专区
+https://huyazhibo.de5.net/?id=11602072
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%B0%E6%B9%BE%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",台湾剧专区
+https://huyazhibo.de5.net/?id=11342436
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%A9%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",韩国剧专区
+https://huyazhibo.de5.net/?id=23863787
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BE%8E%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",美国剧专区
+https://huyazhibo.de5.net/?id=20985825
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",英国剧专区
+https://huyazhibo.de5.net/?id=29982659
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A0%A1%E5%9B%AD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",校园剧专区
+https://huyazhibo.de5.net/?id=30080228
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B0%8D%E6%88%98%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",谍战剧专区
+https://huyazhibo.de5.net/?id=30080225
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%A4%E8%A3%85%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",古装剧专区
+https://huyazhibo.de5.net/?id=24314158
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B9%A1%E6%9D%91%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",乡村剧专区
+https://huyazhibo.de5.net/?id=30080255
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%81%B6%E5%83%8F%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",偶像剧专区
+https://huyazhibo.de5.net/?id=11601964
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E6%83%85%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",爱情剧专区
+https://huyazhibo.de5.net/?id=29982671
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%90%9E%E7%AC%91%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",搞笑剧专区
+https://huyazhibo.de5.net/?id=21059634
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A6%E4%BE%A0%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",武侠剧专区
+https://huyazhibo.de5.net/?id=20985816
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A9%BF%E8%B6%8A%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",穿越剧专区
+https://huyazhibo.de5.net/?id=26355857
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B9%B4%E4%BB%A3%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",年代剧专区
+https://huyazhibo.de5.net/?id=20969095
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A2%8E%E7%89%87%E8%AE%B0.png" group-title="💽纪录片直播",碎片记
+http://live.nctv.top/douyu1.php?id=9412981
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%87%E5%AE%99%E8%A7%86%E7%95%8C.png" group-title="💽纪录片直播",宇宙视界
+http://live.nctv.top/douyu1.php?id=9498354
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A7%91%E5%AD%A6%E6%94%BE%E6%98%A0%E5%AE%A4.png" group-title="💽纪录片直播",科学放映室
+http://live.nctv.top/douyu1.php?id=9439712
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%87%E5%AE%99%E6%8E%A2%E7%B4%A2%E9%A3%9E%E8%88%B9.png" group-title="💽纪录片直播",宇宙探索飞船
+http://live.nctv.top/douyu1.php?id=9456028
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%96%E7%95%8C%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%B0%9C.png" group-title="💽纪录片直播",世界未解之谜
+http://live.nctv.top/douyu1.php?id=9369468
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%88%AA%E6%8B%8D%E4%B8%AD%E5%9B%BD.png" group-title="💽纪录片直播",航拍中国
+https://huyazhibo.de5.net/?id=22414123
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%9B%BD%E9%80%9A%E5%8F%B2.png" group-title="💽纪录片直播",中国通史
+https://huyazhibo.de5.net/?id=20985822
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97.png" group-title="🎎动漫直播",名侦探柯南
+https://huyazhibo.de5.net/?id=30080236
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85.png" group-title="🎎动漫直播",火影忍者
+https://huyazhibo.de5.net/?id=29465866
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E8%B4%BC%E7%8E%8B.png" group-title="🎎动漫直播",海贼王
+https://huyazhibo.de5.net/?id=29982634
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D.png" group-title="🎎动漫直播",神奇宝贝
+https://huyazhibo.de5.net/?id=21241784
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%AB%E5%B4%8E%E9%AA%8F.png" group-title="🎎动漫直播",宫崎骏
+https://huyazhibo.de5.net/?id=21059614
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%92%A2%E4%B9%8B%E7%82%BC%E9%87%91%E6%9C%AF%E5%B8%88.png" group-title="🎎动漫直播",钢之炼金术师
+https://huyazhibo.de5.net/?id=20985859
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E5%AD%90%E7%9A%84%E7%AF%AE%E7%90%83.png" group-title="🎎动漫直播",黑子的篮球
+https://huyazhibo.de5.net/?id=30080253
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%91%9E%E5%85%8B%E4%B8%8E%E8%8E%AB%E8%92%82.png" group-title="🎎动漫直播",瑞克与莫蒂
+https://huyazhibo.de5.net/?id=29982655
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%90%E9%BE%99%E5%8E%86%E9%99%A9%E8%AE%B0.png" group-title="🎎动漫直播",成龙历险记
+https://huyazhibo.de5.net/?id=11352946
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0.png" group-title="🎎动漫直播",蜡笔小新
+https://huyazhibo.de5.net/?id=11352970
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A8%B1%E6%A1%83%E5%B0%8F%E4%B8%B8%E5%AD%90.png" group-title="🎎动漫直播",樱桃小丸子
+https://huyazhibo.de5.net/?id=11342394
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0.png" group-title="🎎动漫直播",猫和老鼠
+https://huyazhibo.de5.net/?id=11352879
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%83%E9%BE%99%E7%8F%A0.png" group-title="🎎动漫直播",七龙珠
+https://huyazhibo.de5.net/?id=30273533
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%BF%AA%E8%BF%A6%E5%A5%A5%E7%89%B9%E6%9B%BC.png" group-title="🎎动漫直播",迪迦奥特曼
+https://huyazhibo.de5.net/?id=11601966
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B5%9B%E6%96%87%E5%A5%A5%E7%89%B9%E6%9B%BC.png" group-title="🎎动漫直播",赛文奥特曼
+https://huyazhibo.de5.net/?id=11602065
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B3%B0%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC.png" group-title="🎎动漫直播",泰罗奥特曼
+https://huyazhibo.de5.net/?id=11352889
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B.png" group-title="🎎动漫直播",全职高手
+https://huyazhibo.de5.net/?id=21059628
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%93%86%E5%95%A6A%E6%A2%A6.png" group-title="🎎动漫直播",哆啦A梦
+https://huyazhibo.de5.net/?id=11601963
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D.png" group-title="🎎动漫直播",海绵宝宝
+https://huyazhibo.de5.net/?id=11352919
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3.png" group-title="🎎动漫直播",魔法少女
+https://huyazhibo.de5.net/?id=21059587
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E7%8C%8E%E4%BA%BA.png" group-title="🎎动漫直播",全职猎人
+https://huyazhibo.de5.net/?id=30080254
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%9B%9B%E9%A9%B1%E5%85%84%E5%BC%9F.png" group-title="🎎动漫直播",四驱兄弟
+https://huyazhibo.de5.net/?id=11352922
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BD%91%E7%90%83%E7%8E%8B%E5%AD%90.png" group-title="🎎动漫直播",网球王子
+https://huyazhibo.de5.net/?id=11352882
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%A9%E5%85%B7%E6%80%BB%E5%8A%A8%E5%91%98.png" group-title="🎎动漫直播",玩具总动员
+https://huyazhibo.de5.net/?id=30080256
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%80%9A%E7%81%B5%E7%8E%8B.png" group-title="🎎动漫直播",通灵王
+https://huyazhibo.de5.net/?id=20969112
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B8%B8%E6%88%8F%E7%8E%8B.png" group-title="🎎动漫直播",游戏王
+https://huyazhibo.de5.net/?id=20985856
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%94%B7%E5%AD%90%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9A%84%E6%97%A5%E5%B8%B8.png" group-title="🎎动漫直播",男子高中生的日常
+https://huyazhibo.de5.net/?id=20985858
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%83%E6%B0%94%E5%B0%91%E5%A5%B3%E7%BC%98%E7%BB%93%E7%A5%9E.png" group-title="🎎动漫直播",元气少女缘结神
+https://huyazhibo.de5.net/?id=11352967
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E6%B3%95%E5%B8%88.png" group-title="🎎动漫直播",全职法师
+https://huyazhibo.de5.net/?id=26355772
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%B8%E5%85%84.png" group-title="🎎动漫直播",尸兄
+https://huyazhibo.de5.net/?id=26355846
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E5%A4%B4%E5%84%BF%E5%AD%90%E5%B0%8F%E5%A4%B4%E7%88%B8%E7%88%B8.png" group-title="🎎动漫直播",大头儿子小头爸爸
+https://huyazhibo.de5.net/?id=20969114
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%93%AA%E5%90%92%E4%BC%A0%E5%A5%87.png" group-title="🎎动漫直播",哪吒传奇
+https://huyazhibo.de5.net/?id=26355782
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E6%97%8F.png" group-title="🎎动漫直播",龙族
+https://huyazhibo.de5.net/?id=23865086
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6.png" group-title="🎎动漫直播",间谍过家家
+https://huyazhibo.de5.net/?id=30080149
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BD%97%E5%B0%8F%E9%BB%91%E6%88%98%E8%AE%B0.png" group-title="🎎动漫直播",罗小黑战记
+https://huyazhibo.de5.net/?id=24314159
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F.png" group-title="🎎动漫直播",葫芦兄弟
+https://huyazhibo.de5.net/?id=20985834
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98.png" group-title="🎎动漫直播",咒术回战
+https://huyazhibo.de5.net/?id=21059561
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%8D%E5%8F%9B%E7%9A%84%E9%B2%81%E8%B7%AF%E4%BF%AE.png" group-title="🎎动漫直播",反叛的鲁路修
+https://huyazhibo.de5.net/?id=20969113
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B6%85%E8%87%AA%E7%84%B6%E6%AD%A6%E8%A3%85%E5%BD%93%E5%93%92%E5%BD%93.png" group-title="🎎动漫直播",超自然武装当哒当
+https://huyazhibo.de5.net/?id=20985850
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB.png" group-title="🎎动漫直播",新世纪福音战士
+https://huyazhibo.de5.net/?id=20985862
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86.png" group-title="🎎动漫直播",足球小将
+https://huyazhibo.de5.net/?id=25725150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%BD%BB%E7%BE%BD%E9%A3%9E%E6%89%AC.png" group-title="🎎动漫直播",轻羽飞扬
+https://huyazhibo.de5.net/?id=30805998
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%99%AB%E5%B8%88.png" group-title="🎎动漫直播",虫师
+https://huyazhibo.de5.net/?id=21241791
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E7%A5%9E%E8%8B%B1%E9%9B%84%E4%BC%A0.png" group-title="🎎动漫直播",魔神英雄传
+https://huyazhibo.de5.net/?id=21241839
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%8D%8E%E5%B0%8F%E5%BD%93%E5%AE%B6.png" group-title="🎎动漫直播",中华小当家
+https://huyazhibo.de5.net/?id=30613314
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B.png" group-title="🎎动漫直播",一人之下
+https://huyazhibo.de5.net/?id=31312788
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8B%AE%E5%AD%90%E7%8E%8B.png" group-title="🎎动漫直播",狮子王
+https://huyazhibo.de5.net/?id=11601977
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90.png" group-title="🎎动漫直播",夏目友人帐
+https://huyazhibo.de5.net/?id=23865058
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8E%A8%E7%A5%9E%E5%B0%8F%E5%BD%93%E5%AE%B6.png" group-title="🎎动漫直播",厨神小当家
+https://huyazhibo.de5.net/?id=24257300
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0.png" group-title="🎎动漫直播",武林外传
+https://huyazhibo.de5.net/?id=30574220
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B.png" group-title="🎎动漫直播",灌篮高手
+https://huyazhibo.de5.net/?id=25039461
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%93%91%E8%88%8D.png" group-title="🎎动漫直播",哑舍
+https://huyazhibo.de5.net/?id=16020022
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E6%8E%92%E7%90%83.png" group-title="🎎动漫直播",小排球
+https://huyazhibo.de5.net/?id=20985802
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="🎎动漫直播",英雄联盟
+https://huyazhibo.de5.net/?id=23903196
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A.png" group-title="🍿短剧直播",陈翔六点半
+https://huyazhibo.de5.net/?id=11274154
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B5%B5%E6%9C%AC%E5%B1%B1%E4%B8%93%E5%9C%BA.png" group-title="🧨小品直播",赵本山专场
+http://live.nctv.top/douyu1.php?id=9817716
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%8B%E5%B0%8F%E5%AE%9D%E4%B8%93%E5%9C%BA.png" group-title="🧨小品直播",宋小宝专场
+http://live.nctv.top/douyu1.php?id=9817729
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B4%BE%E7%8E%B2%E4%B8%93%E5%9C%BA.png" group-title="🧨小品直播",贾玲专场
+http://live.nctv.top/douyu1.php?id=10419541
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%AE%B8%E5%90%9B%E8%81%AA%E4%B8%93%E5%9C%BA.png" group-title="🧨小品直播",许君聪专场
+http://live.nctv.top/douyu1.php?id=10419558
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E4%B8%93%E5%9C%BA.png" group-title="🧨小品直播",沈腾马丽专场
+http://live.nctv.top/douyu1.php?id=10153463
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/3030%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81.png" group-title="🧨小品直播",3030相声小品
+http://live.nctv.top/douyu1.php?id=9286868
+
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%8E%E5%AD%90%E6%9F%92.png" group-title="🌲乡野直播",李子柒
+https://huyazhibo.de5.net/?id=21969336
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%9A%E5%A4%9A%E7%9C%8B%E8%BD%A6.png" group-title="🚗集锦直播",多多看车
+http://live.nctv.top/douyu1.php?id=4921957
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Mordon.png" group-title="🚗集锦直播",Mordon
+http://live.nctv.top/douyu1.php?id=9524579
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E6%98%8E%E4%B8%8D%E8%83%8C%E9%94%85up.png" group-title="🚗集锦直播",小明不背锅up
+http://live.nctv.top/douyu1.php?id=117854
+
+
+
+
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" group-title="🔥[三网3]央卫视直播",CCTV-1
 http://192.151.150.154/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://epg.112114.xyz/logo/CCTV-2.png" group-title="🔥[三网3]央卫视直播",CCTV-2
