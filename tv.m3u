@@ -8,15 +8,15 @@ https://cdn.jsdelivr.net/gh/pkpter/tv/tv2.m3u
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV999.png" group-title="订阅网址2",CCTV999
 https://live.445569.xyz/live.m3u
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="个人精选",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="个人精选",凤凰资讯湖南转
 http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="个人精选",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="个人精选",凤凰中文湖南转
 http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="个人精选",凤凰香港
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="个人精选",凤凰香港湖南转
 http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" http-user-agent="iPhone" group-title="个人精选",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" http-user-agent="iPhone" group-title="个人精选",CCTV13浙蓝转
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="个人精选",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="个人精选",凤凰资讯ytb
 https://www.youtube.com/watch?v=Ry--eMIjYLQ
 
 
