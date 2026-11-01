@@ -8,12 +8,6 @@ https://cdn.jsdelivr.net/gh/pkpter/tv/tv2.m3u
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV999.png" group-title="订阅网址2",CCTV999
 https://live.445569.xyz/live.m3u
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="个人精选国外",凤凰资讯湖南转
-http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="个人精选国外",凤凰中文湖南转
-http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="个人精选国外",凤凰香港湖南转
-http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LIVE%E4%B8%89%E7%AB%8B.png" group-title="个人精选国外",LIVE三立
 https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="个人精选国外",民视新闻
@@ -26,6 +20,12 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="个人精选国外",RedBull红牛
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="个人精选国外",凤凰资讯湖南转
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="个人精选国外",凤凰中文湖南转
+http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="个人精选国外",凤凰香港湖南转
+http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 
 
 
