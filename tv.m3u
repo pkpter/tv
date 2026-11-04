@@ -20,13 +20,12 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="个人精选国外",RedBull红牛
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="个人精选国外",凤凰资讯湖南转
-http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="个人精选国外",凤凰中文湖南转
-http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="个人精选国外",凤凰香港湖南转
-http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
-
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%B3%B3%E5%87%B0%E4%B8%AD%E6%96%87%E8%87%BA.png" group-title="个人精选国外",鳳凰中文臺
+http://173.208.234.146/live/fhzw.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%B3%B3%E5%87%B0%E8%B3%87%E8%A8%8A%E8%87%BA.png" group-title="个人精选国外",鳳凰資訊臺
+http://173.208.234.146/live/fhzx.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%B3%B3%E5%87%B0%E9%A6%99%E6%B8%AF%E8%87%BA.png" group-title="个人精选国外",鳳凰香港臺
+http://173.208.234.146/live/fhxg.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Now%E6%96%B0%E8%81%9E%E8%87%BA.png" group-title="🔮港澳台直播",Now新聞臺
@@ -165,6 +164,14 @@ https://petclub-samsungaus.amagi.tv/playlist.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Channel%20News%20Asia.png" group-title="🔮港澳台直播",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="🔮港澳台直播",凤凰资讯湖南转
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="🔮港澳台直播",凤凰中文湖南转
+http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="🔮港澳台直播",凤凰香港湖南转
+http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+
+
 
 
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🇨🇳央卫视直播1",CCTV1
