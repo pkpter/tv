@@ -345,35 +345,35 @@ http://45.192.97.170:8880/play/2.m3u8
 http://45.192.97.170:8880/play/3.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="🇨🇳央卫视直播1",CCTV4
 http://45.192.97.170:8880/play/4.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="🇨🇳央卫视直播1",CCTV5
-http://45.192.97.170:8880/play/5.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5%2B.png" group-title="🇨🇳央卫视直播1",CCTV5+
-http://45.192.97.170:8880/play/6.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="🇨🇳央卫视直播1",CCTV6
-http://45.192.97.170:8880/play/7.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="🇨🇳央卫视直播1",CCTV7
-http://45.192.97.170:8880/play/8.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="🇨🇳央卫视直播1",CCTV8
-http://45.192.97.170:8880/play/9.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="🇨🇳央卫视直播1",CCTV9
-http://45.192.97.170:8880/play/10.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="🇨🇳央卫视直播1",CCTV10
-http://45.192.97.170:8880/play/11.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="🇨🇳央卫视直播1",CCTV11
-http://45.192.97.170:8880/play/12.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="🇨🇳央卫视直播1",CCTV12
-http://45.192.97.170:8880/play/13.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="🇨🇳央卫视直播1",CCTV13
-http://45.192.97.170:8880/play/14.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="🇨🇳央卫视直播1",CCTV14
-http://45.192.97.170:8880/play/15.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="🇨🇳央卫视直播1",CCTV15
-http://45.192.97.170:8880/play/16.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="🇨🇳央卫视直播1",CCTV17
-http://45.192.97.170:8880/play/17.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV4%E6%AC%A7%E6%B4%B2.png" group-title="🇨🇳央卫视直播1",CCTV4欧洲
-http://45.192.97.170:8880/play/18.m3u8
+http://45.192.97.170:8880/play/5.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV4%E7%BE%8E%E6%B4%B2.png" group-title="🇨🇳央卫视直播1",CCTV4美洲
+http://45.192.97.170:8880/play/6.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="🇨🇳央卫视直播1",CCTV5
+http://45.192.97.170:8880/play/7.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5%2B.png" group-title="🇨🇳央卫视直播1",CCTV5+
+http://45.192.97.170:8880/play/8.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="🇨🇳央卫视直播1",CCTV6
+http://45.192.97.170:8880/play/9.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="🇨🇳央卫视直播1",CCTV7
+http://45.192.97.170:8880/play/10.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="🇨🇳央卫视直播1",CCTV8
+http://45.192.97.170:8880/play/11.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="🇨🇳央卫视直播1",CCTV9
+http://45.192.97.170:8880/play/12.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="🇨🇳央卫视直播1",CCTV10
+http://45.192.97.170:8880/play/13.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="🇨🇳央卫视直播1",CCTV11
+http://45.192.97.170:8880/play/14.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="🇨🇳央卫视直播1",CCTV12
+http://45.192.97.170:8880/play/15.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="🇨🇳央卫视直播1",CCTV13
+http://45.192.97.170:8880/play/16.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="🇨🇳央卫视直播1",CCTV14
+http://45.192.97.170:8880/play/17.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="🇨🇳央卫视直播1",CCTV15
+http://45.192.97.170:8880/play/18.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="🇨🇳央卫视直播1",CCTV17
 http://45.192.97.170:8880/play/19.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8.png" group-title="🇨🇳央卫视直播1",赛事最经典
 http://45.192.97.170:8880/play/20.m3u8
